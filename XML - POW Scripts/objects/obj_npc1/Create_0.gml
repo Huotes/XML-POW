@@ -1,0 +1,1 @@
+nome = "primeiro texto"
